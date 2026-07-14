@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Static Badge](https://img.shields.io/badge/sponsor-gray?logo=githubsponsors&style=for-the-badge&link=https%3A%2F%2Fapp.lava.top%2Fproducts%2F7ea4f127-2f35-4ee6-8ac9-5acf6d126ea2%2F82ae2840-1223-44a5-8794-15756255d60b%3Fcurrency%3DUSD%26amp%3BdomainId%3D215e25f7-4e79-4264-9633-5ad0512e8e37%26amp%3BdomainName%3Dgithub.com)](https://app.lava.top/products/7ea4f127-2f35-4ee6-8ac9-5acf6d126ea2/82ae2840-1223-44a5-8794-15756255d60b?currency=USD&domainId=215e25f7-4e79-4264-9633-5ad0512e8e37&amp;domainName=github.com)
 <!--
 
 **Here are some ideas to get you started:**
